@@ -2,14 +2,16 @@
 
 A easy way to create a express app with typescript with functionality of hot-reload.
 
-## installation
+## Installation
 
 run ``` npx express-typescript-app <app-name> ``` to create a new project
 
-## dependencies
+## Dependencies
 
-- express
+-  [express]([https://ww.com/](https://www.npmjs.com/package/express)https://www.npmjs.com/package/express) 
 
-## dev dependencies
+## Dev dependencies
+
+-
 
 
