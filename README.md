@@ -1,4 +1,4 @@
-# express-typescript-arc
+# Express Typescript Template with support for Hot-Reload
 
 A easy way to create a express app with typescript with functionality of "hot-reload 😎".
 
