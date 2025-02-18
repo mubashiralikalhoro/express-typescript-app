@@ -1,13 +1,15 @@
 {
-  "name": "app-name",
-  "version": "1.0.0",
-  "main": "dist/app.js",
+  "name": "express-typescript-app",
+  "version": "3.0.1",
   "license": "MIT",
-  "scripts": {
-    "build": "npx tsc",
-    "start": "node dist/app.js",
-    "dev": "concurrently \"npx tsc --watch\" \"nodemon -q dist/app.js\""
+  "description": "Create express app with typescript with cli",
+  "repository": {
+    "url": "https://github.com/mubashiralikalhoro/express-typescript-app"
   },
-  "dependencies": {},
-  "devDependencies": {}
+  "bin": "./src/cli.js",
+  "dependencies": {
+    "inquirer": "^12.4.1",
+    "ora": "^8.2.0"
+  },
+  "type": "module"
 }
