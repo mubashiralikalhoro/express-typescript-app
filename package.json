@@ -1,6 +1,6 @@
 {
   "name": "express-typescript-app",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "license": "MIT",
   "description": "Create express app with typescript with cli",
   "repository": {
@@ -11,5 +11,11 @@
     "inquirer": "^12.4.1",
     "ora": "^8.2.0"
   },
-  "type": "module"
+  "type": "module",
+  "keywords": [
+    "express",
+    "typescript",
+    "cli",
+    "hot-reload"
+  ]
 }
